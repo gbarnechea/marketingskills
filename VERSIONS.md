@@ -42,8 +42,21 @@ Current versions of all skills. Agents can compare against local versions to che
 | signup-flow-cro | 1.2.0 | 2026-03-14 |
 | site-architecture | 1.2.0 | 2026-03-14 |
 | social-content | 1.2.0 | 2026-03-14 |
+| generative-media | 1.0.0 | 2026-06-26 |
+| youtube-thumbnail | 1.0.0 | 2026-06-26 |
+| instagram-post | 1.0.0 | 2026-06-26 |
+| ugc-video-factory | 1.0.0 | 2026-06-26 |
+| product-ad-cinematic | 1.0.0 | 2026-06-26 |
 
 ## Recent Changes
+
+### 2026-06-26
+- Added `generative-media` skill — core muapi.ai primitives for AI image, video, and audio generation (100+ models)
+- Added `youtube-thumbnail` skill — high-CTR thumbnail generation via muapi image models
+- Added `instagram-post` skill — hero image + caption + hashtag workflow for Instagram
+- Added `ugc-video-factory` skill — person + product photo → 9:16 UGC video ad with native dialogue audio
+- Added `product-ad-cinematic` skill — product photo + brand brief → cinematic video ad with music
+- Total skills: 43
 
 ### 2026-04-21
 - Added `directory-submissions` skill for Product Hunt, G2, AI directories, and backlink strategy
